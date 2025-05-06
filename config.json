@@ -1,0 +1,184 @@
+
+{
+    "date": "2025.05",
+    "entries": [
+      {
+        "quadrant": 3,
+        "ring": 1,
+        "label": "AWS Athena",
+        "active": true,
+        "moved": 0
+      },
+      {
+        "quadrant": 3,
+        "ring": 0,
+        "label": "Apache Airflow",
+        "active": true,
+        "moved": 0
+      },
+      {
+        "quadrant": 2,
+        "ring": 0,
+        "label": "AWS DynamoDB",
+        "active": true,
+        "moved": 0
+      },
+      {
+        "quadrant": 2,
+        "ring": 0,
+        "label": "AWS S3",
+        "active": true,
+        "moved": 0
+      },
+      {
+        "quadrant": 2,
+        "ring": 3,
+        "label": "MySQL",
+        "active": true,
+        "moved": 0
+      },
+      {
+        "quadrant": 2,
+        "ring": 0,
+        "label": "PostgreSQL",
+        "active": true,
+        "moved": 0
+      },
+      {
+        "quadrant": 2,
+        "ring": 3,
+        "label": "Redis",
+        "active": true,
+        "moved": 0
+      },
+
+      {
+        "quadrant": 1,
+        "ring": 0,
+        "label": "AWS CloudFormation",
+        "active": true,
+        "moved": 0
+      },
+      {
+        "quadrant": 1,
+        "ring": 0,
+        "label": "AWS CDK",
+        "active": true,
+        "moved": 0
+      },
+      {
+        "quadrant": 1,
+        "ring": 0,
+        "label": "AWS CloudFront",
+        "active": true,
+        "moved": 0
+      },
+      {
+        "quadrant": 1,
+        "ring": 1,
+        "label": "AWS Lambda",
+        "active": true,
+        "moved": 0
+      },
+      {
+        "quadrant": 1,
+        "ring": 0,
+        "label": "Docker",
+        "active": true,
+        "moved": 0
+      },
+      {
+        "quadrant": 1,
+        "ring": 0,
+        "label": "Kubernetes",
+        "link": "https://engineering.zalando.com/tags/kubernetes.html",
+        "active": true,
+        "moved": 0
+      },
+      {
+        "quadrant": 1,
+        "ring": 1,
+        "label": "Open Policy Agent",
+        "active": true,
+        "moved": 0
+      },
+      {
+        "quadrant": 1,
+        "ring": 1,
+        "label": "Checkov",
+        "active": true,
+        "moved": 0
+      },
+      {
+        "quadrant": 1,
+        "ring": 0,
+        "label": "OpenTelemetry",
+        "active": true,
+        "moved": 0
+      },
+      {
+        "quadrant": 0,
+        "ring": 0,
+        "label": "Go",
+        "link": "https://engineering.zalando.com/tags/golang.html",
+        "active": true,
+        "moved": 0
+      },
+      {
+        "quadrant": 0,
+        "ring": 0,
+        "label": "JavaScript",
+        "link": "https://engineering.zalando.com/tags/javascript.html",
+        "active": true,
+        "moved": 0
+      },
+      {
+        "quadrant": 0,
+        "ring": 0,
+        "label": "Kotlin",
+        "link": "https://engineering.zalando.com/tags/kotlin.html",
+        "active": true,
+        "moved": 0
+      },
+      {
+        "quadrant": 0,
+        "ring": 0,
+        "label": "OpenAPI (Swagger)",
+        "link": "https://engineering.zalando.com/tags/openapi.html",
+        "active": true,
+        "moved": 0
+      },
+      {
+        "quadrant": 0,
+        "ring": 0,
+        "label": "Python",
+        "link": "https://engineering.zalando.com/tags/python.html",
+        "active": true,
+        "moved": 0
+      },
+      {
+        "quadrant": 0,
+        "ring": 3,
+        "label": "Rust",
+        "link": "https://engineering.zalando.com/tags/rust.html",
+        "active": true,
+        "moved": 0
+      },
+      {
+        "quadrant": 0,
+        "ring": 0,
+        "label": "Swift",
+        "link": "https://engineering.zalando.com/tags/swift.html",
+        "active": true,
+        "moved": 0
+      },
+      {
+        "quadrant": 0,
+        "ring": 0,
+        "label": "TypeScript",
+        "link": "https://engineering.zalando.com/tags/typescript.html",
+        "active": true,
+        "moved": 0
+      }
+    ]
+  }
